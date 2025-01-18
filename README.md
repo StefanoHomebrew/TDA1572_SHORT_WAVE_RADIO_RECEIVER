@@ -1,1 +1,1 @@
-A very experimental shortwave radio receiver with TDA1572, a vintage integrated circuit, external PLL & DDS Vfo and Arduino Mega 256. Gennaio 2025, AM-SSB-RTTY(in fase di sviluppo)
+Quello che vedete è molto sperimentale, in fase di sviluppo. Non posso dare assistenza tecnica e file gerber... Se trovate BUG e avete consigli utili, scrivetemi! Grazie!  Altrimenti che divertimento è!... A very experimental shortwave radio receiver with TDA1572, a vintage integrated circuit, external PLL & DDS Vfo and Arduino Mega 256. Gennaio 2025, AM-SSB-RTTY(in fase di sviluppo)
